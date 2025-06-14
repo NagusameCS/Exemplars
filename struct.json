@@ -20,5 +20,115 @@
     "grade": "6",
     "year": 2022,
     "status": "public"
+  },
+  {
+    "id": "math_aa_hl_003",
+    "title": "Modelling Epidemic Spread with Exponentials",
+    "level": "hl",
+    "filename": "math_aa/hl/exponential_modeling_ia.pdf",
+    "tags": ["ia", "modelling"],
+    "type": "IA",
+    "grade": "5",
+    "year": 2023,
+    "status": "public"
+  },
+  {
+    "id": "math_aa_hl_004",
+    "title": "Fibonacci Sequences in Nature",
+    "level": "hl",
+    "filename": "math_aa/hl/fibonacci_ia.pdf",
+    "tags": ["ia", "sequences"],
+    "type": "IA",
+    "grade": "4",
+    "year": 2021,
+    "status": "public"
+  },
+  {
+    "id": "math_aa_hl_005",
+    "title": "Geometry of Penrose Tilings",
+    "level": "hl",
+    "filename": "math_aa/hl/penrose_ia.pdf",
+    "tags": ["ia", "geometry"],
+    "type": "IA",
+    "grade": "3",
+    "year": 2020,
+    "status": "public"
+  },
+  {
+    "id": "math_aa_hl_006",
+    "title": "Analyzing Traffic Flow with Piecewise Functions",
+    "level": "hl",
+    "filename": "math_aa/hl/traffic_flow_ia.pdf",
+    "tags": ["ia", "functions"],
+    "type": "IA",
+    "grade": "2",
+    "year": 2022,
+    "status": "public"
+  },
+  {
+    "id": "math_aa_hl_007",
+    "title": "Optimizing Box Volume with Calculus",
+    "level": "hl",
+    "filename": "math_aa/hl/box_volume_ia.pdf",
+    "tags": ["ia", "optimization"],
+    "type": "IA",
+    "grade": "1",
+    "year": 2021,
+    "status": "public"
+  },
+  {
+    "id": "ee_math_001",
+    "title": "The Mathematics of Cryptography: A Study of RSA",
+    "level": "hl",
+    "filename": "extended_essays/math/rsa_ee.pdf",
+    "tags": ["ee", "number theory", "encryption"],
+    "type": "EE",
+    "grade": "A",
+    "year": 2023,
+    "status": "public"
+  },
+  {
+    "id": "ee_math_002",
+    "title": "Fractals and Self-Similarity in Financial Markets",
+    "level": "hl",
+    "filename": "extended_essays/math/fractals_ee.pdf",
+    "tags": ["ee", "fractals", "finance"],
+    "type": "EE",
+    "grade": "B",
+    "year": 2022,
+    "status": "public"
+  },
+  {
+    "id": "ee_math_003",
+    "title": "Game Theory and the Prisoner's Dilemma",
+    "level": "hl",
+    "filename": "extended_essays/math/game_theory_ee.pdf",
+    "tags": ["ee", "game theory"],
+    "type": "EE",
+    "grade": "C",
+    "year": 2021,
+    "status": "public"
+  },
+  {
+    "id": "ee_math_004",
+    "title": "Modeling Climate Change with Differential Equations",
+    "level": "hl",
+    "filename": "extended_essays/math/climate_modeling_ee.pdf",
+    "tags": ["ee", "differential equations", "climate"],
+    "type": "EE",
+    "grade": "D",
+    "year": 2020,
+    "status": "public"
+  },
+  {
+    "id": "ee_math_005",
+    "title": "Topology and the Möbius Strip",
+    "level": "hl",
+    "filename": "extended_essays/math/topology_ee.pdf",
+    "tags": ["ee", "topology"],
+    "type": "EE",
+    "grade": "E",
+    "year": 2019,
+    "status": "public"
   }
 ]
