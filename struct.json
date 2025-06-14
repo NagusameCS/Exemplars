@@ -1,1 +1,24 @@
-
+[
+  {
+    "id": "math_aa_hl_001",
+    "title": "Area Under Curve IA",
+    "level": "hl",
+    "filename": "math_aa/hl/integration_ia.pdf",
+    "tags": ["ia", "calculus"],
+    "type": "IA",
+    "grade": "7",
+    "year": 2023,
+    "status": "public"
+  },
+  {
+    "id": "math_aa_hl_002",
+    "title": "Differentiation IA",
+    "level": "hl",
+    "filename": "math_aa/hl/differentiation_ia.pdf",
+    "tags": ["ia", "derivatives"],
+    "type": "IA",
+    "grade": "6",
+    "year": 2022,
+    "status": "public"
+  }
+]
